@@ -1,5 +1,4 @@
-	Am implementat patru module : sensors_input, square_root, 
-display_and_drop si baggage_drop.
+	Am implementat patru module : sensors_input, square_root, display_and_drop si baggage_drop.
 	In cadrul modulului sensors_input am calculat inaltimea de la care va fi lansat pachetul, 
 aceasta fiind egala cu media aritmetica a senzorilor. Daca senzorul 1 sau senzorul 3 este 0, 
 inaltimea este media dintre senzorul 2 si senzorul 4. Daca senzorul 2 sau senzorul 4 este 0, 
